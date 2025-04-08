@@ -43,8 +43,8 @@ This tool leverages **Google's Gemini API** to generate comprehensive business i
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/ai-business-consultant.git
-   cd ai-business-consultant
+   git clone https://github.com/harshit6ioy/AI-Business-Consultant
+   cd AI-Business-Consultant
 
 
 2.Install Dependencies
@@ -57,4 +57,4 @@ GOOGLE_API_KEY=your_google_generative_ai_api_key_here
 
 4.Run the app
 
-Streamlit run app3.py
+Streamlit run chatbot.py
