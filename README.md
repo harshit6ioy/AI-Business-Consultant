@@ -57,4 +57,4 @@ GOOGLE_API_KEY=your_google_generative_ai_api_key_here
 
 4.Run the app
 
-Streamlit run chatbot.py
+streamlit run chatbot.py
